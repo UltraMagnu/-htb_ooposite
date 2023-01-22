@@ -1,0 +1,11 @@
+type:vbd
+user-name:ultramagnu
+stage: inmersion
+discovery vulnerabilities: CVE-2018-1312, CVE-2021-36368
+by me: 2 
+in-repo:0
+estimated-vulnerabilities:2
+discovery-percentage: 80%
+effort: easy
+date: 12/28/2022
+path:lekriss
